@@ -4,23 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8b5cd38-b78e-438b-988d-57100fd40096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CS_Elective-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/static/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/leader/view_task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/leader/view_user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/login/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/login/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/side_bar_nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/urls.py" afterDir="false" />
+    <list default="true" id="a8b5cd38-b78e-438b-988d-57100fd40096" name="Changes" comment="Updated-Leader Features">
+      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/leader/menu_label.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/leader/settings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/login/member_login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/login/member_register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/login/runtask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/member/menu_label.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/member/settings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/member/view_task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/member/view_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/member_side_bar_nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtask/runtask_app/templates/leader/view_task.html" beforeDir="false" afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/leader/view_task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtask/runtask_app/templates/leader/view_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/leader/view_user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtask/runtask_app/templates/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/login/leader_login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtask/runtask_app/templates/login/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/login/leader_register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtask/runtask_app/templates/side_bar_nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/runtask/runtask_app/templates/leader_side_bar_nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtask/runtask_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/runtask/runtask_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtask/runtask_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/runtask/runtask_app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;J3V2&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/J3V2/RUNTASK.git&quot;,
+    &quot;accountId&quot;: &quot;03ed6744-b88c-4bdc-b4e2-f741f46b1e19&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -62,6 +76,23 @@
       <option name="presentableId" value="Default" />
       <updated>1733689777429</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated-Leader Features">
+      <option name="closed" value="true" />
+      <created>1733936061490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733936061490</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated-Leader Features">
+      <option name="closed" value="true" />
+      <created>1733936136189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733936136189</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated-Leader Features" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated-Leader Features" />
   </component>
 </project>
